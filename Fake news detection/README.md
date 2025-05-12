@@ -63,11 +63,3 @@ This project uses natural language processing (NLP) and machine learning to dete
 - The model distinguishes fake from real news based solely on article content.
 
 ---
-
-## 🚀 Getting Started
-
-### Clone the repository
-
-```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
