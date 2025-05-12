@@ -13,17 +13,17 @@ I'm passionate about data-driven problem solving and constantly working on proje
 
 ## 📂 Projects Included
 
-### 1. 📰 [Fake News Detection](./Fake%20news%20detection.ipynb)
+### 1. 📰 [Fake News Detection](./Fake%20news%20detection/Fake%20news%20detection.ipynb)
 - **Goal**: Classify news articles as fake or real using text content.
 - **Tech**: NLP with TF-IDF, Logistic Regression, NLTK
 - **Dataset**: [Kaggle – Fake News Classification](https://www.kaggle.com/datasets/saurabhshahane/fake-news-classification)
 
-### 2. 🏃‍♂️ [Human Activity Recognition (HAR) for ADL Analysis](./Human%20Activity%20Recognition%20(HAR)%20for%20ADL%20Analysis.ipynb)
+### 2. 🏃‍♂️ [Human Activity Recognition (HAR) for ADL Analysis](./Human%20Activity%20Recognition%20(HAR)%20for%20ADL%20Analysis/Human%20Activity%20Recognition%20(HAR)%20for%20ADL%20Analysis.ipynb)
 - **Goal**: Recognize daily living activities using wearable sensor data.
 - **Tech**: Time-series preprocessing, classification models
 - **Dataset**: [UCI HAR Dataset](https://archive.ics.uci.edu/ml/datasets/human+activity+recognition+using+smartphones)
 
-### 3. 🪨 [Rock vs Mine Prediction](./Rock%20vs%20Mine%20Prediction.ipynb)
+### 3. 🪨 [Rock vs Mine Prediction](./Rock%20vs%20Mine%20prediction/Rock%20vs%20Mine%20prediction.ipynb)
 - **Goal**: Use sonar data to classify whether the detected object is a rock or a mine.
-- **Tech**: Logistic Regression, sklearn, model serialization with pickle
+- **Tech**: Logistic Regression, scikit-learn, model serialization with pickle
 - **Dataset**: [UCI Sonar Dataset](https://archive.ics.uci.edu/ml/datasets/connectionist+bench+sonar+mines+vs+rocks)
